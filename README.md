@@ -1,3 +1,4 @@
+
 # My Infomation
 
 - #### Persional Infomation
@@ -10,15 +11,11 @@
 
   - Email: 2431540106@vaa.edu.vn
 
-
-
 - #### Contact:
 
   - [Facebook](https://www.facebook.com/Longpogba06)    
 
   - [GitHub](https://github.com/ChrisDemon0811)
-
-# 
 
 - #### Skill:
 
@@ -39,6 +36,7 @@
     Life is not fair, get used  it
 
 ```
+
 
 
 
