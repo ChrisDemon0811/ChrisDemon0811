@@ -25,7 +25,8 @@
   - [GitHub](https://github.com/ChrisDemon0811)
 
 - #### Skill:
-  -normal
+  -normal:
+  
 ![c++](https://skillicons.dev/icons?i=cpp)
 ![java](https://skillicons.dev/icons?i=java)
 ![python](https://skillicons.dev/icons?i=py)
