@@ -26,12 +26,12 @@
 
 - #### Skill:
   - Pro:
-    ![SQL](https://skillicons.dev/icons?i=sql)
+    ![SQL](https://skillicons.dev/icons?i=mysql)  
 
   - normal:
     ![c++](https://skillicons.dev/icons?i=cpp)
     ![java](https://skillicons.dev/icons?i=java)
-    ![python](https://skillicons.dev/icons?i=py)
+    ![python](https://skillicons.dev/icons?i=py)    
 
   - newbie:
     ![html](https://skillicons.dev/icons?i=html)
