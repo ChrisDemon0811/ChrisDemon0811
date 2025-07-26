@@ -25,10 +25,10 @@
   - [GitHub](https://github.com/ChrisDemon0811)
 
 - #### Skill:
-
-  - ![c++](https://skillicons.dev/icons?i=cpp)
+  -normal
+![c++](https://skillicons.dev/icons?i=cpp)
 ![java](https://skillicons.dev/icons?i=java)
-![python](https://skillicons.dev/icons?i=py) (normal)
+![python](https://skillicons.dev/icons?i=py)
 
   - SQL (pro)
 
