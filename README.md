@@ -3,6 +3,8 @@
 
 ### Menu
   - [Persional Infomation](#PersionalInfomation)
+  - [Contact](#Contact)
+  - [Skill](#skill)
 
 
 <a name="PersionalInfomation"></a>
@@ -16,6 +18,7 @@
 
   - Email: 2431540106@vaa.edu.vn
 
+<a name="Contact"></a>
 - #### Contact:
 
   - [Facebook](https://www.facebook.com/Longpogba06)    
