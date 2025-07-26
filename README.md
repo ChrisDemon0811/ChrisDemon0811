@@ -2,12 +2,11 @@
 # My Infomation
 
 ### Menu
-  - [Persional Infomation](#PersionalInfomation)
+  - [Persional Infomation](#Persional-Infomation)
   - [Contact](#Contact)
-  - [Skill](#skill)
+  - [Skill](#Skill)
 
 
-<a name="PersionalInfomation"></a>
 - #### Persional Infomation
 
   - Name: ChrisDemon    
@@ -18,7 +17,6 @@
 
   - Email: 2431540106@vaa.edu.vn
 
-<a name="Contact"></a>
 - #### Contact:
 
   - [Facebook](https://www.facebook.com/Longpogba06)    
