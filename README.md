@@ -40,7 +40,7 @@
 
 ```sh
 
-    Life is not fair, get used  it
+    Life is not fair, get used to it
 
 ```
 
