@@ -30,7 +30,7 @@
 
   - Java (normal)
 
-  - [python](https://skillicons.dev/icons?i=py)
+  - ![python](https://skillicons.dev/icons?i=py)
 
   - SQL (pro)
 
