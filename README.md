@@ -26,10 +26,10 @@
 
 - #### Skill:
   -normal:
-  
-![c++](https://skillicons.dev/icons?i=cpp)
-![java](https://skillicons.dev/icons?i=java)
-![python](https://skillicons.dev/icons?i=py)
+
+    ![c++](https://skillicons.dev/icons?i=cpp)
+    ![java](https://skillicons.dev/icons?i=java)
+    ![python](https://skillicons.dev/icons?i=py)
 
   - SQL (pro)
 
